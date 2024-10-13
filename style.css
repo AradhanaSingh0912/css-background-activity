@@ -1,0 +1,17 @@
+body {
+    background-color: palevioletred;
+    background-image: url(image.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment:
+        fixed;
+}
+
+.top_section {
+    width: 600px;
+    height: 60px;
+    background-color: azure;
+    color: lightgreen;
+    text-align: center;
+    background-image: linear-gradient(to right, indigo, blue, navy)
+}
